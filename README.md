@@ -1,5 +1,20 @@
 
 # Jenkins
+<h2>What is Jenkins?</h2>
+<p>Jenkins is an open-source automation server widely used to automate parts of software development, such as building, testing, and deploying applications. It helps developers continuously integrate changes to code and continuously deliver software by automating repetitive tasks.</p>
+
+<h3>Key points about Jenkins:</h3>
+<ul>
+  <li><strong>Automation:</strong> Jenkins automates tasks like compiling code, running tests, and deploying software, reducing manual effort.</li>
+  <li><strong>Continuous Integration / Continuous Delivery (CI/CD):</strong> Jenkins supports CI/CD pipelines, which help teams deliver code changes more frequently and reliably.</li>
+  <li><strong>Plugins:</strong> Jenkins has a rich ecosystem of plugins to integrate with many tools and technologies.</li>
+  <li><strong>Extensible:</strong> You can customize Jenkins pipelines using a Jenkinsfile, which defines build steps as code.</li>
+  <li><strong>Web Interface:</strong> Jenkins provides a web dashboard to monitor builds, configure jobs, and view logs.</li>
+  <li><strong>Cross-platform:</strong> Runs on Windows, macOS, Linux, and can be deployed on cloud or local servers.</li>
+</ul>
+
+<p>In short, Jenkins helps automate the software lifecycle to improve productivity and software quality.</p>
+
 
 <!DOCTYPE html>
 <html>
